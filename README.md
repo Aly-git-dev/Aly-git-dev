@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Melanie Roman 👋
 
-<!--
-**Aly-git-dev/Aly-git-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering Graduate passionate about software development, computer architecture, algorithms and technical problem solving.
 
-Here are some ideas to get you started:
+> Build. Experiment. Iterate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* Software Development
+* Full-Stack Applications
+* Computer Architecture
+* Algorithms and Data Structures
+* Linux & Infrastructure
+* Embedded Systems
+
+## Featured Projects
+
+### KALYPI Engineering Playground
+
+Interactive engineering portfolio featuring:
+
+* Compiler Lab
+* RISC-V Lab
+* Algorithms Lab
+* Systems Lab
+* CoLab
+* PvZ Chess
+
+### CoLab
+
+Academic collaboration platform featuring:
+
+* Forums
+* Appointments
+* Analytics
+* Role-based access
+* Notifications
+
+### RISC-V Processor Lab
+
+Interactive visualization of a VHDL RISC-V processor implementation.
+
+### Algorithms Lab
+
+Visualizations for:
+
+* Sorting algorithms
+* Graph traversal
+* Dijkstra
+* Binary Search Trees
+
+## Technologies
+
+### Languages
+
+Java • TypeScript • Python • C • VHDL • SQL
+
+### Frameworks
+
+Spring Boot • Angular • Next.js
+
+### Tools
+
+Docker • Linux • Git • PostgreSQL • Firebase
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/melanie-roman-569a213ab/
+* GitHub: https://github.com/Aly-git-dev
+* Email: [melaniere02@gmail.com](mailto:melaniere02@gmail.com)
+
+---
+
+Build. Experiment. Iterate.
